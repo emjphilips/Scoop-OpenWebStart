@@ -22,3 +22,8 @@ GitHub: https://github.com/karakun/OpenWebStart/releases
 Guide: https://github.com/karakun/OpenWebStart/blob/master/documentation/guide/OWSGuide.adoc#unattended-installation
 
 ## This repo contains all the same information that is on our BitBucket repo and has only been created to limit any confusion or struggle that might come with accessing the original repo - https://bitbucket.org/rjcs413/openwebstart/src/main/
+
+
+## Installing 
+To install this OpenWebStart via Scoop download the json file and then run the line 
+          scoop install ./openwebstart.json
